@@ -45,7 +45,7 @@
   }
 }
 {
-  "homepage": "https://JacobPoole84.github.io/library-react-tutorial",
+  "homepage": "https://yourusername.github.io/repository-name",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
