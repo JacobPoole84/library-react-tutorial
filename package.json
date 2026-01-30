@@ -44,3 +44,10 @@
     "gh-pages": "^6.3.0"
   }
 }
+{
+  "homepage": "https://JacobPoole84.github.io/library-react-tutorial",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+}
